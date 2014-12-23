@@ -1,0 +1,132 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		403309B91A496416006575D5 /* async.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = async.m; sourceTree = "<group>"; };
+		403309BA1A496416006575D5 /* cdfetch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cdfetch.m; sourceTree = "<group>"; };
+		403309BB1A496416006575D5 /* checkerror.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = checkerror.m; sourceTree = "<group>"; };
+		403309BC1A496416006575D5 /* continuation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = continuation.m; sourceTree = "<group>"; };
+		403309BD1A496416006575D5 /* cvds.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cvds.m; sourceTree = "<group>"; };
+		403309BE1A496416006575D5 /* documents.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = documents.m; sourceTree = "<group>"; };
+		403309BF1A496416006575D5 /* frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frame.m; sourceTree = "<group>"; };
+		403309C01A496416006575D5 /* frc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frc.m; sourceTree = "<group>"; };
+		403309C11A496416006575D5 /* frcd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frcd.m; sourceTree = "<group>"; };
+		403309C21A496416006575D5 /* imv.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = imv.m; sourceTree = "<group>"; };
+		403309C31A496416006575D5 /* init.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = init.m; sourceTree = "<group>"; };
+		403309C41A496416006575D5 /* library.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = library.m; sourceTree = "<group>"; };
+		403309C51A496416006575D5 /* lifecycle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lifecycle.m; sourceTree = "<group>"; };
+		403309C61A496416006575D5 /* mailcomp.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mailcomp.m; sourceTree = "<group>"; };
+		403309C71A496416006575D5 /* mark.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mark.m; sourceTree = "<group>"; };
+		403309C81A496416006575D5 /* nscoding.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = nscoding.m; sourceTree = "<group>"; };
+		403309C91A496416006575D5 /* nsl.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = nsl.m; sourceTree = "<group>"; };
+		403309CA1A496416006575D5 /* pdel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pdel.m; sourceTree = "<group>"; };
+		403309CB1A496416006575D5 /* pds.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pds.m; sourceTree = "<group>"; };
+		403309CC1A496416006575D5 /* singleton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = singleton.m; sourceTree = "<group>"; };
+		403309CD1A496416006575D5 /* stack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = stack.m; sourceTree = "<group>"; };
+		403309CE1A496417006575D5 /* strongself.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = strongself.m; sourceTree = "<group>"; };
+		403309CF1A496417006575D5 /* tu.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tu.m; sourceTree = "<group>"; };
+		403309D01A496417006575D5 /* tvdel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tvdel.m; sourceTree = "<group>"; };
+		403309D11A496417006575D5 /* tvds.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tvds.m; sourceTree = "<group>"; };
+		403309D21A496417006575D5 /* weakself.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = weakself.m; sourceTree = "<group>"; };
+		403309D31A496417006575D5 /* xae.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xae.m; sourceTree = "<group>"; };
+		403309D41A496417006575D5 /* xaf.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xaf.m; sourceTree = "<group>"; };
+		403309D51A496417006575D5 /* xan.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xan.m; sourceTree = "<group>"; };
+		403309D61A496417006575D5 /* xann.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xann.m; sourceTree = "<group>"; };
+		403309D71A496417006575D5 /* xat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xat.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		403309B21A4963AC006575D5 = {
+			isa = PBXGroup;
+			children = (
+				403309B91A496416006575D5 /* async.m */,
+				403309BA1A496416006575D5 /* cdfetch.m */,
+				403309BB1A496416006575D5 /* checkerror.m */,
+				403309BC1A496416006575D5 /* continuation.m */,
+				403309BD1A496416006575D5 /* cvds.m */,
+				403309BE1A496416006575D5 /* documents.m */,
+				403309BF1A496416006575D5 /* frame.m */,
+				403309C01A496416006575D5 /* frc.m */,
+				403309C11A496416006575D5 /* frcd.m */,
+				403309C21A496416006575D5 /* imv.m */,
+				403309C31A496416006575D5 /* init.m */,
+				403309C41A496416006575D5 /* library.m */,
+				403309C51A496416006575D5 /* lifecycle.m */,
+				403309C61A496416006575D5 /* mailcomp.m */,
+				403309C71A496416006575D5 /* mark.m */,
+				403309C81A496416006575D5 /* nscoding.m */,
+				403309C91A496416006575D5 /* nsl.m */,
+				403309CA1A496416006575D5 /* pdel.m */,
+				403309CB1A496416006575D5 /* pds.m */,
+				403309CC1A496416006575D5 /* singleton.m */,
+				403309CD1A496416006575D5 /* stack.m */,
+				403309CE1A496417006575D5 /* strongself.m */,
+				403309CF1A496417006575D5 /* tu.m */,
+				403309D01A496417006575D5 /* tvdel.m */,
+				403309D11A496417006575D5 /* tvds.m */,
+				403309D21A496417006575D5 /* weakself.m */,
+				403309D31A496417006575D5 /* xae.m */,
+				403309D41A496417006575D5 /* xaf.m */,
+				403309D51A496417006575D5 /* xan.m */,
+				403309D61A496417006575D5 /* xann.m */,
+				403309D71A496417006575D5 /* xat.m */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		403309B31A4963AC006575D5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 403309B61A4963AC006575D5 /* Build configuration list for PBXProject "Xcode-Snippets" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 403309B21A4963AC006575D5;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		403309B71A4963AC006575D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		403309B81A4963AC006575D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		403309B61A4963AC006575D5 /* Build configuration list for PBXProject "Xcode-Snippets" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				403309B71A4963AC006575D5 /* Debug */,
+				403309B81A4963AC006575D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 403309B31A4963AC006575D5 /* Project object */;
+}
